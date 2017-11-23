@@ -1,6 +1,3 @@
----
-title: Testing MC:T1 - Minecraft for Type 1 Diabetes
----
 ## Welcome to MC:T1 - Minecraft for Type 1 Diabetes
 
 Thank you for your interest in MC:T1 - Minecraft for Type 1 Diabetes, the innovative Minecraft mod that simulates Type 1 Diabetes in Minecraft. To learn more about the project, visit [www.mct1.io](http://www.mct1.io).
