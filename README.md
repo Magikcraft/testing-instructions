@@ -36,7 +36,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Here are the upcoming onboarding sessions. These are held online, and you connect with your web browser.
 
-#### US / UK Friday 24 November | AU Saturday 25 November
+#### US Friday 24 November 2pm/5pm
+#### UK Friday 24 November 10pm
+#### AU Saturday 25 November 8am
 
 * Los Angeles 2:00pm Friday 24 November
 * New York 5:00pm Friday 24 November
@@ -45,7 +47,9 @@ Here are the upcoming onboarding sessions. These are held online, and you connec
 
 [Book now on Eventbrite](https://www.eventbrite.com/e/mct1-onboarding-tickets-40181413690)
 
-#### US Saturday 25 November | AU / UK Sunday 26 November
+#### US Saturday 25 November 6pm/9pm
+#### UK Sunday 26 November 2am
+#### AU Sunday 26 November 12pm
 
 * Los Angeles 6:00pm Saturday 25 November
 * New York 9:00pm Saturday 25 November
@@ -54,7 +58,9 @@ Here are the upcoming onboarding sessions. These are held online, and you connec
 
 [Book now on Eventbrite](https://www.eventbrite.com/e/mct1-onboarding-tickets-40181414693)
 
-#### US Saturday 25 November | AU / UK Sunday 26 November
+#### US Saturday 25 November 9pm/12am
+#### UK Sunday 26 November 5am
+#### AU Sunday 26 November 3pm
 
 * Los Angeles 9:00pm Saturday 25 November
 * New York 12:00am Sunday 25 November
@@ -63,7 +69,9 @@ Here are the upcoming onboarding sessions. These are held online, and you connec
 
 [Book now on Eventbrite](https://www.eventbrite.com/e/mct1-onboarding-tickets-40181415696)
 
-#### AU / US / UK Sunday 26 November
+#### US Sunday 26 November 5am/8am
+#### UK Sunday 26 November 1pm
+#### AU Sunday 26 November 11pm
 
 * Los Angeles 5:00am Saturday 25 November
 * New York 8:00am Sunday 25 November
@@ -72,7 +80,9 @@ Here are the upcoming onboarding sessions. These are held online, and you connec
 
 [Book now on Eventbrite](https://www.eventbrite.com/e/mct1-onboarding-tickets-40287260280)
 
-#### AU / US / UK Sunday 26 November
+#### US Sunday 26 November 1pm/4pm
+#### UK Sunday 26 November 9pm
+#### AU Monday 26 November 7am
 
 * Los Angeles 1:00pm Sunday 26 November
 * New York 4:00pm Sunday 25 November
