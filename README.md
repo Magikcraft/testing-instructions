@@ -11,8 +11,8 @@ We are currently in development and testing of MC:T1 - Minecraft for Type 1 Diab
 
 ### Playing MC:T1
 
-1. Once you have a license, download the Magikcraft client from [client.magikcraft.io](https://client.magikcraft.io).
-2. Start the Magikcraft client.
+1. Once you have a license, download the Java Minecraft client from [minecraft.net](https://minecraft.net).
+2. Start the Minecraft client.
 3. Log in with your Minecraft account.
 4. Click on "Join Magikcraft"
 5. You will appear in the Magikcraft lobby. Look around, and head through the "MCT1" portal.
