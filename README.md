@@ -7,20 +7,17 @@ We are currently in development and testing of MC:T1 - Minecraft for Type 1 Diab
 ### Prerequisites
 
 * You need a PC or a Mac for this - either a desktop or a laptop. This only runs on a PC or Mac. Not on tablets, or iPhones, or consoles.
-* You can get a license for Minecraft Java Edition for PC/Mac from [Minecraft.net](https://www.minecraft.net). It is AUD$35. If you have trouble using your credit card from Australia, buy a Minecraft gift card from 7/11 or Coles. 
+* You can get a license for Minecraft Java Edition for PC/Mac from [Minecraft.net](https://www.minecraft.net). It is AUD$35. If you have trouble using your credit card from Australia, buy a Minecraft gift card from 7/11 or Coles.
 
 ### Playing MC:T1
 
 1. Once you have a license, download the Java Minecraft client from [minecraft.net](https://minecraft.net).
 2. Start the Minecraft client.
 3. Log in with your Minecraft account.
-4. Click on "Join Magikcraft"
-5. You will appear in the Magikcraft lobby. Look around, and head through the "MCT1" portal.
-6. You will appear in the MCT1 world, and a 60-second countdown timer will start.
-7. After sixty seconds you will be struck down with T1.
-8. Ten seconds later, you will warp to the training facility.
-9. Complete each stage of the training to move to the next stage.
-10. Now make your way through the dungeon.
+4. Click on "Multiplayer"
+5. Follow the instructions in the video below to connect to the server at mc.mct1.io:
+
+[![YouTube instructional video](youtube.png)](https://www.youtube.com/watch?v=0g5qL8bC2TA)
 
 <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
 0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
