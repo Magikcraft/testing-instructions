@@ -15,7 +15,7 @@ We are currently in development and testing of MC:T1 - Minecraft for Type 1 Diab
 2. Start the Minecraft client.
 3. Log in with your Minecraft account.
 4. Create a profile for Minecraft version 1.12. Here is a video that shows you how to do that:
-[![YouTube instructional video](youtube.png)](https://www.youtube.com/watch?v=OZZlLqkapk0)
+[![YouTube instructional video](profile_vid.png)](https://www.youtube.com/watch?v=OZZlLqkapk0)
 
 5. Click on "Multiplayer"
 6. Follow the instructions in the video below to connect to the server at mc.mct1.io:
