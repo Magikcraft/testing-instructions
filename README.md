@@ -14,8 +14,11 @@ We are currently in development and testing of MC:T1 - Minecraft for Type 1 Diab
 1. Once you have a license, download the Java Minecraft client from [minecraft.net](https://minecraft.net).
 2. Start the Minecraft client.
 3. Log in with your Minecraft account.
-4. Click on "Multiplayer"
-5. Follow the instructions in the video below to connect to the server at mc.mct1.io:
+4. Create a profile for Minecraft version 1.12. Here is a video that shows you how to do that:
+[![YouTube instructional video](youtube.png)](https://www.youtube.com/watch?v=OZZlLqkapk0)
+
+5. Click on "Multiplayer"
+6. Follow the instructions in the video below to connect to the server at mc.mct1.io:
 
 [![YouTube instructional video](youtube.png)](https://www.youtube.com/watch?v=0g5qL8bC2TA)
 
