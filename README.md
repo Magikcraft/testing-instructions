@@ -14,12 +14,13 @@ We are currently in development and testing of MC:T1 - Minecraft for Type 1 Diab
 1. Once you have a license, download the Java Minecraft client from [minecraft.net](https://minecraft.net).
 2. Start the Minecraft client.
 3. Log in with your Minecraft account.
-4. Click on "Multiplayer"
+4. Click on "Multiplayer".
 5. Follow the instructions in the video below to connect to the server at mc.mct1.io:
 
 [![YouTube instructional video](youtube.png)](https://www.youtube.com/watch?v=0g5qL8bC2TA)
 
-6. Once you are connected, type in the Minecraft game: `/quest mct1`. Then hit Enter. This will start the MCT1 game.
+6. At various times the version of the server will change, and your Minecraft launcher will automatically update to the latest Minecraft version. If you need to create a different version profile to match the MCT1 Server version, see [here](https://help.mojang.com/customer/portal/articles/1475923-changing-game-versions).
+7. Once you are connected, the MCT1 game will start automatically. If you want US units for the blood glucose, type: `/units mgdl`.
 
 <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
 0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
